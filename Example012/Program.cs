@@ -117,7 +117,7 @@ Console.WriteLine();
 newText = Replace(text, 'с', 'С');
 Console.WriteLine(newText);
 */
-
+/*
 int[] arr = {8,7,4,3,6,5,3,9,2};
 void PrintArray(int[] array)
 {
@@ -148,3 +148,4 @@ void selectionSort(int[] array)
 PrintArray(arr);
 selectionSort(arr);
 PrintArray(arr);
+*/
